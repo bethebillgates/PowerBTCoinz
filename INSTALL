@@ -1,0 +1,9 @@
+Building PowerBTCoinz
+
+See doc/readme-qt.rst for instructions on building PowerBTCoinz QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PowerBTCoinz.
+
+See doc/build-*.txt for instructions on building PowerBTCoinzd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PowerBTCoinz.
